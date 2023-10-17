@@ -1,5 +1,5 @@
 class Persona:
-    def __init__(self, nombre:str, edad:int, altura:str, sexo:boolean):
+    def __init__(self, nombre: str, edad: int, altura: str, sexo: str):
         self._nombre = nombre
         self._edad = edad
         self._altura = altura
